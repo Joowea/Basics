@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20201024.iml" filepath="$PROJECT_DIR$/20201024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201024StringBuilder/20201024StringBuilder.iml" filepath="$PROJECT_DIR$/20201024StringBuilder/20201024StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201026Interface/20201026Interface.iml" filepath="$PROJECT_DIR$/20201026Interface/20201026Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201026Interface/20201026InterfaceStatic.iml" filepath="$PROJECT_DIR$/20201026Interface/20201026InterfaceStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201027InterfaceDefault/20201027InterfaceDefault.iml" filepath="$PROJECT_DIR$/20201027InterfaceDefault/20201027InterfaceDefault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201027InterfacePrivate/20201027InterfacePrivate.iml" filepath="$PROJECT_DIR$/20201027InterfacePrivate/20201027InterfacePrivate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201027InterfaceStatic/20201027InterfaceStatic.iml" filepath="$PROJECT_DIR$/20201027InterfaceStatic/20201027InterfaceStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201028ExeSequ/20201028ExeSequ.iml" filepath="$PROJECT_DIR$/20201028ExeSequ/20201028ExeSequ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201028InterfaceSummary/20201028InterfaceSummary.iml" filepath="$PROJECT_DIR$/20201028InterfaceSummary/20201028InterfaceSummary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201029InterfaceRelations/20201029InterfaceRelations.iml" filepath="$PROJECT_DIR$/20201029InterfaceRelations/20201029InterfaceRelations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201029Multi/20201029Multi.iml" filepath="$PROJECT_DIR$/20201029Multi/20201029Multi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201029Multi/20201029MultiField.iml" filepath="$PROJECT_DIR$/20201029Multi/20201029MultiField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20201030InnerClass/20201030InnerClass.iml" filepath="$PROJECT_DIR$/20201030InnerClass/20201030InnerClass.iml" />
+    </modules>
+  </component>
+</project>
